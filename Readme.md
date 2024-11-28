@@ -108,7 +108,7 @@ The dataset used in this project is the Mall Customer Segmentation Data, which c
 
 **Source**: [Kaggle - Mall Customer Segmentation](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial)
 
-The dataset is included in the repository as `mall.csv`.
+The dataset is included in the repository as `Mall_Customers.csv`.
 
 ## License
 
