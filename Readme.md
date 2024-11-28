@@ -106,7 +106,7 @@ The visualizations will help in understanding how well the customers are grouped
 
 The dataset used in this project is the Mall Customer Segmentation Data, which contains information about customers' income and spending score. 
 
-**Source**: [Kaggle - Mall Customer Segmentation](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial)
+**Source**: [Kaggle - Mall Customer Segmentation](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python?select=Mall_Customers.csv)
 
 The dataset is included in the repository as `Mall_Customers.csv`.
 
