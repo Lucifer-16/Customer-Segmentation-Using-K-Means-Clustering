@@ -35,7 +35,7 @@ This repository contains the implementation of K-Means Clustering to segment cus
 
 ## File Structure
 ```
-│   task2.py
+│   customer_clustering.py
 │   mall_with_distances.csv
 │   mall.csv
 │
@@ -50,10 +50,10 @@ This repository contains the implementation of K-Means Clustering to segment cus
 ## Steps to Run
 
 ### 1. Data Preprocessing
-Run the `task2.py` script to load the data, preprocess it, and standardize the features for clustering:
+Run the `customer_clustering.py` script to load the data, preprocess it, and standardize the features for clustering:
 
 ```bash
-python task2.py
+python customer_clustering.py
 ```
 
 This will process the customer data and apply K-means clustering. The results, including customer assignments to clusters and distances from each centroid, will be saved in the `mall_with_distances.csv` file.
@@ -69,7 +69,7 @@ All plots will be saved as PNG files in the `visualizations/` folder.
 
 ## Visualization
 
-The project includes several visualizations that are automatically generated when running the `task2.py` script:
+The project includes several visualizations that are automatically generated when running the `customer_clustering.py` script:
 
 - **Scatter Plot**: Shows customer segmentation based on Annual Income and Spending Score
 - **Count Plot**: Displays the distribution of customers in each of the 3 clusters
