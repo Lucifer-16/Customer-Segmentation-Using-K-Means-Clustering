@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository contains the implementation of K-Means Clustering to segment customers of a retail store based on their Annual Income and Spending Score. The goal is to group customers into clusters for targeted marketing strategies.
+This repository contains the implementation of K-Means Clustering to segment customers of a retail store based on their Annual Income and Spending Score. The goal is to group customers into clusters for targeted marketing strategies. 
 
 ## Index
 - [Project Overview](#project-overview)
